@@ -5,5 +5,6 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun GedaGedi(){
-    Text("Halo update")
+    Text("Halo update") 
+    Text("GedaGediGedaGedaOOOO")
 }
